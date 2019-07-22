@@ -91,9 +91,17 @@ For most popular offer we consider those that have the highest view ratio and th
 
 Collaborative filtering with user-user similarity is done by using methods such as Euclidian distance and Pearson's correlation coefficient.
 
+For FunkSVD we compare our actual versus predicted values as shown in the histogram and confusion matrix below.
+
+![funksvd_hist](https://github.com/NadimKawwa/starbucks/blob/master/plots/svd_hist_lr0.005_k25.png)
+
+![funksvd_cm](https://github.com/NadimKawwa/starbucks/blob/master/plots/svd_cm_lr0.005_k25.png)
+
 
 ## Conclusion
 
-Predicting consumer spending habits is not a trivial task, this report has made several assumptions about those habits. Namely that purchases that are seen influence spending and that no two offers interact.
+Predicting consumer spending habits is not a trivial task, this report has made several assumptions about those habits. Namely that purchases that are seen influence spending and that no two offers interact. In addition, We have filled missing entiresr with the median or some other value based on the case.
+
+
 We have seen how we can predict customers seeing an offer with supervised learning algorithms while keeping in mind time complexity.
 Finally, the report offers a business application by proposing different methods to suggest offers to users.
