@@ -1,5 +1,5 @@
 # Starbucks
-![cover_photo](https://github.com/NadimKawwa/starbucks/blob/master/plots/sbux_cover_photo.png)
+![cover_photo](https://github.com/NadimKawwa/starbucks/blob/master/plots/sbux_cover.jpg)
 
 Starbucks is an American coffee company and coffeehouse chain. This report explores consumer behavior in relation to an undisclosed product. Information such as customer demographics, spending habits, and offer type are present in separate datasets. By manipulating these features we are able to segment customers, predict spending habits, and suggest offers to customers.
 
