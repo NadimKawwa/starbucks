@@ -3,7 +3,7 @@
 
 Starbucks is an American coffee company and coffeehouse chain. This report explores consumer behavior in relation to an undisclosed product. Information such as customer demographics, spending habits, and offer type are present in separate datasets. By manipulating these features we are able to segment customers, predict spending habits, and suggest offers to customers.
 
-The complete report can be found [inside the repository](https://github.com/NadimKawwa/starbucks/blob/master/strabucks_report_capstone.pdf) or on [google drive](https://drive.google.com/file/d/1oF6u1BFvCpc17uXyLLz0dTD_9b0PIZoh/view?usp=sharing).
+The complete report can be found [inside the repository](https://github.com/NadimKawwa/starbucks/blob/master/strabucks_report_capstone.pdf) or on [google drive](https://drive.google.com/file/d/1oF6u1BFvCpc17uXyLLz0dTD_9b0PIZoh/view?usp=sharing). For a walkthrough of recommendation engine implementation, check out the [medium article](https://towardsdatascience.com/how-to-build-a-recommendation-engine-for-starbucks-662a982df0c2).
 
 ## System Requirements
 
@@ -105,3 +105,5 @@ Predicting consumer spending habits is not a trivial task, this report has made 
 
 We have seen how we can predict customers seeing an offer with supervised learning algorithms while keeping in mind time complexity.
 Finally, the report offers a business application by proposing different methods to suggest offers to users.
+
+
